@@ -1,0 +1,59 @@
+\t (00:00:23) allegro 16.6-2015 S059 (v16-6-112ER) Windows 32
+\t (00:00:23)     Journal start - Wed Jan 16 17:17:16 2019
+\t (00:00:23)         Host=DESKTOP-8PIHM0I User=Andrei Pid=1480 CPUs=8
+\t (00:00:23) CmdLine= D:\Programe\Orcad\Orcad_16.6_Lite\tools\pcb\bin\allegro.exe -orcad
+\t (00:00:23) 
+\d (00:00:23) Design opened: D:/Pt facultate/P1_2018_432A_Moise_Andrei_Amplificator_audio_putere_N16_OrCAD/Layout/AMPLFICATOR AUDIO PUTERE.brd
+\i (00:00:23) generaledit 
+\i (00:00:27) zoom in 1 
+\i (00:00:27) setwindow pcb
+\i (00:00:27) zoom in 1847.13 914.66
+\i (00:00:27) trapsize 691
+\i (00:00:27) zoom in 1 
+\i (00:00:27) setwindow pcb
+\i (00:00:27) zoom in 1847.13 914.67
+\i (00:00:27) trapsize 345
+\i (00:00:27) zoom in 1 
+\i (00:00:27) setwindow pcb
+\i (00:00:27) zoom in 1847.13 914.68
+\i (00:00:27) trapsize 173
+\i (00:00:27) zoom out 1 
+\i (00:00:27) setwindow pcb
+\i (00:00:27) zoom out 1845.41 914.68
+\i (00:00:27) trapsize 345
+\i (00:00:27) zoom out 1 
+\i (00:00:27) setwindow pcb
+\i (00:00:27) zoom out 1845.40 914.69
+\i (00:00:27) trapsize 691
+\i (00:00:27) zoom out 1 
+\i (00:00:27) setwindow pcb
+\i (00:00:27) zoom out 1845.40 914.68
+\i (00:00:27) trapsize 1381
+\i (00:00:28) zoom out 1 
+\i (00:00:28) setwindow pcb
+\i (00:00:28) zoom out 1845.40 914.69
+\t (00:00:28) Grids are drawn 40.00, 40.00 apart for enhanced viewability.
+\i (00:00:28) trapsize 2763
+\i (00:00:28) zoom out 1 
+\i (00:00:28) setwindow pcb
+\i (00:00:28) zoom out 3511.53 909.16
+\t (00:00:28) Grids are drawn 80.00, 80.00 apart for enhanced viewability.
+\i (00:00:28) trapsize 5526
+\i (00:00:28) zoom in 1 
+\i (00:00:28) setwindow pcb
+\i (00:00:28) zoom in 7799.55 721.27
+\t (00:00:28) Grids are drawn 40.00, 40.00 apart for enhanced viewability.
+\i (00:00:28) trapsize 2763
+\i (00:00:29) zoom in 1 
+\i (00:00:29) setwindow pcb
+\i (00:00:29) zoom in 6180.50 643.92
+\t (00:00:29) Grids are drawn 20.00, 20.00 apart for enhanced viewability.
+\i (00:00:29) trapsize 1381
+\i (00:00:30) drag_start grid 5942.89 444.99
+\i (00:00:30) drag_stop 6807.68 -132.45
+\i (00:00:31) drag_start grid 5981.57 480.91
+\i (00:00:31) drag_stop 6871.22 -63.38
+\i (00:00:33) zoom fit 
+\i (00:00:33) trapsize 1358
+\i (00:00:34) exit 
+\t (00:00:35)     Journal end - Wed Jan 16 17:17:27 2019

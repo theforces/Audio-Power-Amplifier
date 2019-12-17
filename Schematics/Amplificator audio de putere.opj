@@ -1,0 +1,232 @@
+(ExpressProject "Amplificator audio de putere"
+  (ProjectVersion "19981106")
+  (ProjectType "Analog or A/D Mixed Mode")
+  (Folder "Design Resources"
+    (Folder "Library"
+      (File
+         "..\pt facultate\anul 3\sem 1\proiect 1\lib_modelepspice_anexa_1\modele_a1_lib\bc856b.lib"
+        (Type "Schematic Library"))
+      (File
+         "..\pt facultate\anul 3\sem 1\proiect 1\lib_modelepspice_anexa_1\modele_a1_lib\bzx84c8v2.lib"
+        (Type "Schematic Library"))
+      (File
+         "..\pt facultate\anul 3\sem 1\proiect 1\lib_modelepspice_anexa_1\modele_a1_lib\bc846b.lib"
+        (Type "Schematic Library"))
+      (File
+         "..\pt facultate\anul 3\sem 1\proiect 1\lib_modelepspice_anexa_1\modele_a1_lib\mjd31cg.lib"
+        (Type "Schematic Library"))
+      (File
+         "..\pt facultate\anul 3\sem 1\proiect 1\lib_modelepspice_anexa_1\modele_a1_lib\bc817-25.lib"
+        (Type "Schematic Library"))
+      (File
+         "..\pt facultate\anul 3\sem 1\proiect 1\lib_modelepspice_anexa_1\modele_a1_lib\bzx84c2v7.lib"
+        (Type "Schematic Library"))
+      (File
+         "..\pt facultate\anul 3\sem 1\proiect 1\lib_modelepspice_anexa_1\modele_a1_lib\1n4148.lib"
+        (Type "Schematic Library"))
+      (File
+         "..\pt facultate\anul 3\sem 1\proiect 1\lib_modelepspice_anexa_1\modele_a1_lib\bc807-25.lib"
+        (Type "Schematic Library"))
+      (File
+         "..\pt facultate\anul 3\sem 1\proiect 1\lib_modelepspice_anexa_1\modele_a1_lib\bzx84c5v1.lib"
+        (Type "Schematic Library"))
+      (File
+         "..\pt facultate\anul 3\sem 1\proiect 1\lib_modelepspice_anexa_1\modele_a1_lib\bzx84c5v6.lib"
+        (Type "Schematic Library"))
+      (File
+         "..\pt facultate\anul 3\sem 1\proiect 1\lib_modelepspice_anexa_1\modele_a1_lib\bzx84c6v8.lib"
+        (Type "Schematic Library"))
+      (File
+         "..\pt facultate\anul 3\sem 1\proiect 1\lib_modelepspice_anexa_1\modele_a1_lib\bzx84c10.lib"
+        (Type "Schematic Library"))
+      (File
+         "..\pt facultate\anul 3\sem 1\proiect 1\lib_modelepspice_anexa_1\modele_a1_lib\irfr120npbf.lib"
+        (Type "Schematic Library"))
+      (File
+         "..\pt facultate\anul 3\sem 1\proiect 1\lib_modelepspice_anexa_1\modele_a1_lib\mjd32cg.lib"
+        (Type "Schematic Library"))
+      (File
+         "..\pt facultate\anul 3\sem 1\proiect 1\lib_modelepspice_anexa_1\modele_a1_lib\mmbfj177lt1g.lib"
+        (Type "Schematic Library"))
+      (File
+         "..\pt facultate\anul 3\sem 1\proiect 1\lib_modelepspice_anexa_1\modele_a1_lib\mmbfj309lt1g.lib"
+        (Type "Schematic Library")))
+    (NoModify)
+    (File ".\amplificator audio de putere.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (PSPICE_Regenerate_Netlist_Flag "FALSE")
+    (BOM_Scope "0")
+    (BOM_Mode "0")
+    (BOM_Report_File "D:\Pt facultate\componente.BOM")
+    (BOM_Merge_Include "FALSE")
+    (BOM_Property_Combine_7.0 "{Item}\t{Quantity}\t{Reference}\t{Value}")
+    (BOM_Header "Item\tQuantity\tReference\tPart")
+    (BOM_Include_File
+       "D:\PT FACULTATE\P1_2018_432A_MOISE_ANDREI_AMPLIFICATOR_AUDIO_PUTERE_N16_ORCAD\SCHEMATICS\AMPLIFICATOR AUDIO DE PUTERE.INC")
+    (BOM_Include_File_Combine_7.0 "{Item}\t{Quantity}\t{Reference}\t{Value}")
+    (BOM_One_Part_Per_Line "FALSE")
+    (Open_BOM_in_Excel "FALSE")
+    (BOM_View_Output "FALSE"))
+  (Folder "Outputs"
+    (File
+       ".\amplificator audio de putere-pspicefiles\schematic1\schematic1.net"
+      (Type "Report"))
+    (File "d:\pt facultate\componente.bom"
+      (Type "Report")))
+  (Folder "PSpice Resources"
+    (Folder "Simulation Profiles"
+      (ActiveProfile
+         ".\amplificator audio de putere-pspicefiles\schematic1\amplificator audio de putere.sim")
+      (File.PSpice.{09528990-3187-11D2-BC7B-00A0C90CBF91}
+         ".\amplificator audio de putere-pspicefiles\schematic1\amplificator audio de putere.sim"
+        (DisplayName "SCHEMATIC1-Amplificator audio de putere")
+        (Type "PSpice Profile")))
+    (Folder "Model Libraries"
+      (Sort User)
+      (File
+         "e:\pt facultate\anul 3\sem 1\proiect 1\lib_modelepspice_anexa_1\modele_a1_lib\bc856b.lib"
+        (Type "Schematic Library"))
+      (File
+         "e:\pt facultate\anul 3\sem 1\proiect 1\lib_modelepspice_anexa_1\modele_a1_lib\bzx84c8v2.lib"
+        (Type "Schematic Library"))
+      (File
+         "e:\pt facultate\anul 3\sem 1\proiect 1\lib_modelepspice_anexa_1\modele_a1_lib\bc846b.lib"
+        (Type "Schematic Library"))
+      (File
+         "e:\pt facultate\anul 3\sem 1\proiect 1\lib_modelepspice_anexa_1\modele_a1_lib\mjd31cg.lib"
+        (Type "Schematic Library"))
+      (File
+         "e:\pt facultate\anul 3\sem 1\proiect 1\lib_modelepspice_anexa_1\modele_a1_lib\bc817-25.lib"
+        (Type "Schematic Library"))
+      (File
+         "e:\pt facultate\anul 3\sem 1\proiect 1\lib_modelepspice_anexa_1\modele_a1_lib\bzx84c2v7.lib"
+        (Type "Schematic Library"))
+      (File
+         "e:\pt facultate\anul 3\sem 1\proiect 1\lib_modelepspice_anexa_1\modele_a1_lib\1n4148.lib"
+        (Type "Schematic Library"))
+      (File
+         "e:\pt facultate\anul 3\sem 1\proiect 1\lib_modelepspice_anexa_1\modele_a1_lib\bc807-25.lib"
+        (Type "Schematic Library"))
+      (File
+         "e:\pt facultate\anul 3\sem 1\proiect 1\lib_modelepspice_anexa_1\modele_a1_lib\bzx84c5v1.lib"
+        (Type "Schematic Library"))
+      (File
+         "e:\pt facultate\anul 3\sem 1\proiect 1\lib_modelepspice_anexa_1\modele_a1_lib\bzx84c5v6.lib"
+        (Type "Schematic Library"))
+      (File
+         "e:\pt facultate\anul 3\sem 1\proiect 1\lib_modelepspice_anexa_1\modele_a1_lib\bzx84c6v8.lib"
+        (Type "Schematic Library"))
+      (File
+         "e:\pt facultate\anul 3\sem 1\proiect 1\lib_modelepspice_anexa_1\modele_a1_lib\bzx84c10.lib"
+        (Type "Schematic Library"))
+      (File
+         "e:\pt facultate\anul 3\sem 1\proiect 1\lib_modelepspice_anexa_1\modele_a1_lib\irfr120npbf.lib"
+        (Type "Schematic Library"))
+      (File
+         "e:\pt facultate\anul 3\sem 1\proiect 1\lib_modelepspice_anexa_1\modele_a1_lib\mjd32cg.lib"
+        (Type "Schematic Library"))
+      (File
+         "e:\pt facultate\anul 3\sem 1\proiect 1\lib_modelepspice_anexa_1\modele_a1_lib\mmbfj177lt1g.lib"
+        (Type "Schematic Library"))
+      (File
+         "e:\pt facultate\anul 3\sem 1\proiect 1\lib_modelepspice_anexa_1\modele_a1_lib\mmbfj309lt1g.lib"
+        (Type "Schematic Library")))
+    (Folder "Stimulus Files"
+      (Sort User))
+    (Folder "Include Files"
+      (Sort User)))
+  (DefaultLibraryBrowseDirectory "library\PSpice")
+  (PartMRUSelector
+    (C
+      (FullPartName "C.Normal")
+      (LibraryName
+         "C:\ORCAD\ORCAD_16.6_LITE\TOOLS\CAPTURE\LIBRARY\PSPICE\ANALOG.OLB")
+      (DeviceIndex "0"))
+    (R
+      (FullPartName "R.Normal")
+      (LibraryName
+         "C:\ORCAD\ORCAD_16.6_LITE\TOOLS\CAPTURE\LIBRARY\PSPICE\ANALOG.OLB")
+      (DeviceIndex "0"))
+    (BZX84-C8V2
+      (FullPartName "BZX84-C8V2.Normal")
+      (LibraryName
+         "E:\PT FACULTATE\ANUL 3\SEM 1\PROIECT 1\LIB_MODELEPSPICE_ANEXA_1\MODELE_A1_LIB\BZX84C8V2.OLB")
+      (DeviceIndex "0"))
+    (VSIN
+      (FullPartName "VSIN.Normal")
+      (LibraryName
+         "C:\ORCAD\ORCAD_16.6_LITE\TOOLS\CAPTURE\LIBRARY\PSPICE\SOURCE.OLB")
+      (DeviceIndex "0"))
+    (VAC
+      (FullPartName "VAC.Normal")
+      (LibraryName
+         "C:\ORCAD\ORCAD_16.6_LITE\TOOLS\CAPTURE\LIBRARY\PSPICE\SOURCE.OLB")
+      (DeviceIndex "0"))
+    (BZX84-C2V7
+      (FullPartName "BZX84-C2V7.Normal")
+      (LibraryName
+         "E:\PT FACULTATE\ANUL 3\SEM 1\PROIECT 1\LIB_MODELEPSPICE_ANEXA_1\MODELE_A1_LIB\BZX84C2V7.OLB")
+      (DeviceIndex "0"))
+    (QBC817-25
+      (FullPartName "QBC817-25.Normal")
+      (LibraryName
+         "E:\PT FACULTATE\ANUL 3\SEM 1\PROIECT 1\LIB_MODELEPSPICE_ANEXA_1\MODELE_A1_LIB\BC817-25.OLB")
+      (DeviceIndex "0"))
+    (QBC846B
+      (FullPartName "QBC846B.Normal")
+      (LibraryName
+         "E:\PT FACULTATE\ANUL 3\SEM 1\PROIECT 1\LIB_MODELEPSPICE_ANEXA_1\MODELE_A1_LIB\BC846B.OLB")
+      (DeviceIndex "0"))
+    (QBC856B
+      (FullPartName "QBC856B.Normal")
+      (LibraryName
+         "E:\PT FACULTATE\ANUL 3\SEM 1\PROIECT 1\LIB_MODELEPSPICE_ANEXA_1\MODELE_A1_LIB\BC856B.OLB")
+      (DeviceIndex "0"))
+    (QMJD31C
+      (FullPartName "QMJD31C.Normal")
+      (LibraryName
+         "E:\PT FACULTATE\ANUL 3\SEM 1\PROIECT 1\LIB_MODELEPSPICE_ANEXA_1\MODELE_A1_LIB\MJD31CG.OLB")
+      (DeviceIndex "0"))
+    (BZX84-C6V8
+      (FullPartName "BZX84-C6V8.Normal")
+      (LibraryName
+         "E:\PT FACULTATE\ANUL 3\SEM 1\PROIECT 1\LIB_MODELEPSPICE_ANEXA_1\MODELE_A1_LIB\BZX84C6V8.OLB")
+      (DeviceIndex "0")))
+  (LastUsedLibraryBrowseDirectory
+     "E:\Pt facultate\Anul 3\Sem 1\Proiect 1\Lib_ModelePSpice_Anexa_1\Modele_A1_lib")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources"
+         "D:\Pt facultate\P1_2018_432A_Moise_Andrei_Amplificator_audio_putere_N16_OrCAD\Schematics\amplificator audio de putere.dsn")
+      (Path "Design Resources"
+         "D:\Pt facultate\P1_2018_432A_Moise_Andrei_Amplificator_audio_putere_N16_OrCAD\Schematics\amplificator audio de putere.dsn"
+         "SCHEMATIC1")
+      (Path "Design Resources" "Library")
+      (Path "Outputs")
+      (Path "PSpice Resources")
+      (Path "PSpice Resources" "Model Libraries")
+      (Select "Design Resources"
+         "D:\Pt facultate\P1_2018_432A_Moise_Andrei_Amplificator_audio_putere_N16_OrCAD\Schematics\amplificator audio de putere.dsn"
+         "SCHEMATIC1" "PAGE1"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 0 200 0 283"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 52 979 52 232")
+        (Scroll "-229 30")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\PT FACULTATE\P1_2018_432A_MOISE_ANDREI_AMPLIFICATOR_AUDIO_PUTERE_N16_ORCAD\SCHEMATICS\AMPLIFICATOR AUDIO DE PUTERE.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE1")))
+  (MPSSessionName "Andrei")
+  (ISPCBBASICLICENSE "false"))

@@ -1,0 +1,16 @@
+* E:\Proiecte Orcad\Amplificator audio de putere-PSpiceFiles\SCHEMATIC1\Amplificator audio de putere\Draft2.asc
+V1 N006 0 SINE(0 1 1k)
+XU1 N006 N001 VDD VSS N005 LT1001
+XU2 N006 N003 VDD VSS N004 LT1001
+R1 N002 N001 1k
+R2 N001 0 1k
+R3 N003 N002 1k
+R4 N004 N003 2k
+D1 N002 N005 1N4148
+D2 N005 N001 1N4148
+.model D D
+.lib C:\Users\moise\OneDrive\Documents\LTspiceXVII\lib\cmp\standard.dio
+.dc V1 -1 1 10m
+.lib LTC.lib
+.backanno
+.end
